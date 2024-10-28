@@ -1,3 +1,5 @@
 # counter-in-binary-system
 my first project in c
-//well,i don't know what i'm doing,but just do it
+i've been upload the first verson
+honestly it's just a pice of shit
+hope i will polish it in the future
